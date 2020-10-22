@@ -2,11 +2,7 @@
 
 This repository contains the official PyTorch implementation of [Gradient Estimation with Stochastic Softmax Tricks](https://arxiv.org/abs/2006.08063).
 
-![Stochastic Softmax Tricks (SST)](SMT_and_SST.png)
-
-<p align="center">
-  <img align="middle" src="./figures/SMT_and_SST.png" width="1000" height="231" />
-</p>
+<img align="middle" src="./figures/SMT_and_SST.png">
 
 This repository contains code to reproduce the NRI for Graph Layout experiments, and includes:
 * Spanning tree SST with exponential family entropy relaxation
